@@ -1,5 +1,7 @@
 # README
 
+E-coomerce - Rails monolith app with Bootstrap
+
 ## How to use
 
 Install Node.js:
@@ -23,12 +25,8 @@ sudo apt install redis-server
 Type in console:
 
 ```ruby
-git clone https://github.com/Haidamac/RubyHW.git
+git clone https://github.com/Haidamac/haidamac_e_commerce.git
 ```
-
-```ruby
-cd RubyHW/HW15
-````
 
 ```ruby
 gem install bundler
