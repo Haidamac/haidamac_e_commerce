@@ -1,6 +1,6 @@
 # README
 
-E-coomerce - Rails monolith app with Bootstrap
+E-commerce - Rails monolith app with Bootstrap
 
 ## How to use
 
